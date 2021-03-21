@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dee Grant</h1>
 <h3 align="center">Software Engineer at 100devs</h3>
 
-- 👨‍💻 All of my projects are available at [deegrant.com](deegrant.com)
+- 👨‍💻 All of my projects are available at [deegrant.com](https://www.deegrant.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/wdeegrant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="wdeegrant" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dee-grant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dee-grant" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/deegrant" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="deegrant" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15147194" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="deegrant" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/deiticus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="deiticus" height="30" width="40" /></a>
 </p>
 
