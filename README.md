@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Dee Grant</h1>
-<h3 align="center">Software Engineer</h3>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/dee-grant">
