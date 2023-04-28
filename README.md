@@ -10,5 +10,5 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeeGrant&langs_count=10&layout=compact" alt="Top languages used" />    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeeGrant&hide=Jupyter%20Notebook&langs_count=10&layout=compact" alt="Top languages used" />    
 </p>
